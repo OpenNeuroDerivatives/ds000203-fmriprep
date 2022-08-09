@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Vg/wp/MD5E-s13457--9a117effa5b2e991eadfc1a76d93e205.cmd/MD5E-s13457--9a117effa5b2e991eadfc1a76d93e205.cmd
+/annex/objects/MD5E-s13457--9a117effa5b2e991eadfc1a76d93e205.cmd
