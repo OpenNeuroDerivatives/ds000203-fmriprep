@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/ZW/Xf/MD5E-s13025--958f2f686520f7f6a1d000ee648e0af9.cmd/MD5E-s13025--958f2f686520f7f6a1d000ee648e0af9.cmd
+/annex/objects/MD5E-s13025--958f2f686520f7f6a1d000ee648e0af9.cmd

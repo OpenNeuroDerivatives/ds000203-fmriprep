@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/W4/MZ/MD5E-s400--a6617f63f1798a2c0f94e53c6d779eb0.txt/MD5E-s400--a6617f63f1798a2c0f94e53c6d779eb0.txt
+/annex/objects/MD5E-s400--a6617f63f1798a2c0f94e53c6d779eb0.txt

@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/gz/Xg/MD5E-s13025--d493f7edc3e35106c3242e4b365c41ea.cmd/MD5E-s13025--d493f7edc3e35106c3242e4b365c41ea.cmd
+/annex/objects/MD5E-s13025--d493f7edc3e35106c3242e4b365c41ea.cmd

@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/WG/4G/MD5E-s487211--d70193c5e3ca36573aa1026e73d5ba85.K/MD5E-s487211--d70193c5e3ca36573aa1026e73d5ba85.K
+/annex/objects/MD5E-s487211--d70193c5e3ca36573aa1026e73d5ba85.K

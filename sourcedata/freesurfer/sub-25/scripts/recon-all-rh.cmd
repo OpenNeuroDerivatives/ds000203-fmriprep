@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Q9/9j/MD5E-s24888--cab929f93f01e68f955d9c0e3ca934fa.cmd/MD5E-s24888--cab929f93f01e68f955d9c0e3ca934fa.cmd
+/annex/objects/MD5E-s24888--cab929f93f01e68f955d9c0e3ca934fa.cmd
