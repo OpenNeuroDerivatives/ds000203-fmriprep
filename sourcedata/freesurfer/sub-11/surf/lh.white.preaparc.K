@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/wk/20/MD5E-s512259--2ec045b1ce1e831aad88f320fab42fc0.K/MD5E-s512259--2ec045b1ce1e831aad88f320fab42fc0.K
